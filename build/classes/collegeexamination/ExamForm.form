@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup1">
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="buttonGroup2">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="QuestionTwoThree" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                  <Component id="QuestionTwoTwo" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                  <Component id="QuestionTwoOne" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                  <Component id="QuestionTwo" alignment="0" min="-2" pref="480" max="-2" attributes="0"/>
+                                  <Component id="QuestionTwoFour" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="6" max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="QuestionFourThree" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                  <Component id="QuestionFourTwo" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                  <Component id="QuestionFourOne" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                  <Component id="QuestionFour" alignment="0" min="-2" pref="480" max="-2" attributes="0"/>
+                                  <Component id="QuestionFourFour" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="QuestionOneThree" min="-2" pref="552" max="-2" attributes="0"/>
+                                          <Component id="QuestionOneTwo" min="-2" pref="552" max="-2" attributes="0"/>
+                                          <Component id="QuestionOneOne" min="-2" pref="552" max="-2" attributes="0"/>
+                                          <Component id="QuestionOne" min="-2" pref="480" max="-2" attributes="0"/>
+                                          <Component id="QuestionOneFour" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="QuestionThreeThree" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                          <Component id="QuestionThreeTwo" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                          <Component id="QuestionThreeOne" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                          <Component id="QuestionThree" alignment="0" min="-2" pref="480" max="-2" attributes="0"/>
+                                          <Component id="QuestionThreeFour" alignment="0" min="-2" pref="552" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="314" max="-2" attributes="0"/>
+                                      <Component id="jButton1" min="-2" pref="460" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="examName" min="-2" pref="274" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="QuestionNumber" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="108" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="Minuits" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Seconds" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="DurationLabel" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel1" alignment="3" min="-2" pref="18" max="-2" attributes="0"/>
+                                  <Component id="Minuits" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="Seconds" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="QuestionNumber" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="0" pref="13" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="DurationLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="examName" min="-2" pref="22" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="QuestionThree" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="QuestionThreeOne" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionThreeTwo" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionThreeThree" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionThreeFour" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace pref="9" max="-2" attributes="0"/>
+                      <Component id="QuestionOne" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionOneOne" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionOneTwo" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionOneThree" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionOneFour" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="QuestionTwo" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="QuestionTwoOne" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionTwoTwo" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionTwoThree" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionTwoFour" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="QuestionFour" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="QuestionFourOne" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionFourTwo" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionFourThree" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="QuestionFourFour" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" pref="35" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="QuestionOne">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Question TEXT"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionOneOne">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QuestionOneOneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionOneTwo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionOneFour">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 4"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QuestionOneFourActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionOneThree">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="QuestionTwo">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Question TEXT"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionTwoOne">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QuestionTwoOneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionTwoTwo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionTwoFour">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 4"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QuestionTwoFourActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionTwoThree">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="QuestionFour">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Question TEXT"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionFourOne">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QuestionFourOneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionFourTwo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionFourFour">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 4"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QuestionFourFourActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionFourThree">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="QuestionThree">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Question TEXT"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionThreeOne">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QuestionThreeOneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionThreeTwo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionThreeFour">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 4"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="QuestionThreeFourActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="QuestionThreeThree">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Question 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Submit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="examName">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Yu Gothic UI" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Exam Name"/>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Time Taken"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Minuits">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="00"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Seconds">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="00"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exam Duration"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="DurationLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="10 minuits"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="QuestionNumber">
+    </Component>
+  </SubComponents>
+</Form>
